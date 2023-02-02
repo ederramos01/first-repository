@@ -1,1 +1,2 @@
-Creating a file
+# Creating a file
+This is a brief comment.
